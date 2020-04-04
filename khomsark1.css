@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    font-size: 30px;
+}
+
+.mor1 {
+    color: red;
+}
+
+button {
+    margin-top: 20px;
+}
+
+.blue {
+    color: blue;
+}
+
+.body {
+    color: white;
+    background-color: black;
+}
